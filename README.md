@@ -4,8 +4,6 @@
 This repository contains a full Java implementation of the classic **Snake and Ladder** board game. The project was developed as part of the course "Data Structures" during the Winter Semester of the 2022-2023 academic year at the school Of ECE, AUTH.
 ---
 
-## 📁 Contents
-
 ### 🧩 Components
 
 - `Game.java`:  
