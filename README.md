@@ -6,7 +6,7 @@ This repository contains a full Java implementation of the classic **Snake and L
 
 ## 📁 Contents
 
-### 🧩 Main Components
+### 🧩 Components
 
 - `Game.java`:  
   Main class that initializes and runs the game loop. It controls the sequence of moves, player turns, and the overall flow of the game.
